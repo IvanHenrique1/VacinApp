@@ -82,5 +82,5 @@ Após o login do Atendente no sistema, o mesmo cai direto na tela da **Fila de v
 
 **O VacinApp foi um software desenvolvido para um trabalho semestral da Universidade São Judas Tadeu e apresentado na Expo São Judas!** 
 
-![Certificado Expo](src/assets/Certificado Expo.PNG)
+![Certificado Expo](https://github.com/IvanHenrique1/VacinApp/blob/80a29f8b1cd152ac7e77e561d1aa3266513666d1/src/assets/Certificado%20Expo.PNG)
 
